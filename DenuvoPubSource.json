@@ -2,212 +2,88 @@
   "name": "Denuvo Pub - Free DRM Games",
   "downloads": [
     {
-      "title": "RAIDOU Remastered: The Mystery of the Soulless Army",
-      "uris": [
-        "https://pixeldrain.com/u/R8wum2GX"
-      ],
-      "uploadDate": "2025-07-07T00:48:24.773674-03:00",
-      "fileSize": "16.6 GB"
-    },
-    {
       "title": "The First Berserker: Khazan",
-      "uris": [
-        "https://gofile.io/d/JMTrux"
-      ],
-      "uploadDate": "2025-07-14T23:49:46.111744-03:00",
-      "fileSize": "52GB"
+      "uris": ["https://gofile.io/d/JMTrux"],
+      "uploadDate": "2025-07-15T00:00:00-03:00",
+      "fileSize": "52 GB"
     },
     {
-      "title": "F1 25 Iconic Edition - STEAM Version",
-      "uris": [
-        "https://gofile.io/d/vki6Li"
-      ],
-      "uploadDate": "2025-07-14T23:49:46.111744-03:00",
-      "fileSize": "78GB"
+      "title": "Stellar Blade Complete Edition",
+      "uris": ["https://gofile.io/d/vR7QAu"],
+      "uploadDate": "2025-07-15T00:00:00-03:00",
+      "fileSize": "58 GB"
+    },
+    {
+      "title": "Demon Slayer: Kimetsu no Yaiba - The Hinokami Chronicles",
+      "uris": ["https://gofile.io/d/deJc2z"],
+      "uploadDate": "2025-07-15T00:00:00-03:00",
+      "fileSize": "24 GB"
+    },
+    {
+      "title": "Sonic x Shadow Generations",
+      "uris": ["https://gofile.io/d/nW52ML"],
+      "uploadDate": "2025-07-15T00:00:00-03:00",
+      "fileSize": "36 GB"
+    },
+    {
+      "title": "Black Myth Wukong",
+      "uris": ["https://gofile.io/d/1tljHB"],
+      "uploadDate": "2025-07-15T00:00:00-03:00",
+      "fileSize": "134 GB"
+    },
+    {
+      "title": "F1 25 Iconic Edition",
+      "uris": ["https://gofile.io/d/q8oqAs"],
+      "uploadDate": "2025-07-15T00:00:00-03:00",
+      "fileSize": "83 GB"
+    },
+    {
+      "title": "Hello Kitty Island Adventure",
+      "uris": ["https://gofile.io/d/6WwOPo"],
+      "uploadDate": "2025-07-15T00:00:00-03:00",
+      "fileSize": "2.70 GB"
     },
     {
       "title": "Doom: The Dark Ages",
-      "uris": [
-        "https://cold5.gofile.io/download/web/b6f21121-4c14-4658-aed3-8998e9410979/DOOMTheDarkAges.7z"
-      ],
-      "uploadDate": "2025-07-14T23:49:46.111744-03:00",
-      "fileSize": "94GB"
+      "uris": ["https://gofile.io/d/fRquav"],
+      "uploadDate": "2025-07-15T00:00:00-03:00",
+      "fileSize": "70 GB"
     },
     {
-      "title": "Mortal Kombat 1",
-      "uris": [
-        "https://pixeldrain.com/l/yzXLJAn8"
-      ],
-      "uploadDate": "2025-07-14T23:49:46.111744-03:00",
-      "fileSize": "141GB"
+      "title": "Street Fighter 6",
+      "uris": ["https://gofile.io/d/mDDmcA"],
+      "uploadDate": "2025-07-15T00:00:00-03:00",
+      "fileSize": "94 GB"
     },
     {
-      "title": "Atomic Heart",
-      "uris": [
-        "https://pixeldrain.com/l/C2PN7kqQ"
-      ],
-      "uploadDate": "2025-07-14T23:49:46.111744-03:00",
-      "fileSize": "119GB"
+      "title": "Dead Space Remake",
+      "uris": ["https://gofile.io/d/f8ZF3l"],
+      "uploadDate": "2025-07-15T00:00:00-03:00",
+      "fileSize": "36 GB"
+    },
+    {
+      "title": "RAIDOU Remastered: The Mystery of the Soulless Army",
+      "uris": ["https://pixeldrain.com/u/R8wum2GX"],
+      "uploadDate": "2025-07-15T00:00:00-03:00",
+      "fileSize": "16.6 GB"
+    },
+    {
+      "title": "Resident Evil 4 - Separate Ways",
+      "uris": ["https://gofile.io/d/q8oqAs"],
+      "uploadDate": "2025-07-15T00:00:00-03:00",
+      "fileSize": "67 GB"
     },
     {
       "title": "Persona 3 Reload",
-      "uris": [
-        "https://pixeldrain.com/l/BYs92eLc"
-      ],
-      "uploadDate": "2025-07-14T23:49:46.111744-03:00",
-      "fileSize": "18GB"
-    },
-    {
-      "title": "Persona 5 Royal",
-      "uris": [
-        "https://pixeldrain.com/l/Me2XFxnq"
-      ],
-      "uploadDate": "2025-07-14T23:49:46.111744-03:00",
-      "fileSize": "39GB"
-    },
-    {
-      "title": "Dead Space Remake - EA Version",
-      "uris": [
-        "https://pixeldrain.com/l/dLV85rGs"
-      ],
-      "uploadDate": "2025-07-14T23:49:46.111744-03:00",
-      "fileSize": "36GB"
-    },
-    {
-      "title": "F1 23 - EA Version",
-      "uris": [
-        "https://pixeldrain.com/l/dR2BW2d7"
-      ],
-      "uploadDate": "2025-07-14T23:49:46.111744-03:00",
-      "fileSize": "58GB"
-    },
-    {
-      "title": "F1 24 - EA Version",
-      "uris": [
-        "https://pixeldrain.com/l/tuuFZryc"
-      ],
-      "uploadDate": "2025-07-14T23:49:46.111744-03:00",
-      "fileSize": "53GB"
-    },
-    {
-      "title": "F1 25 Iconic Edition - EA Version",
-      "uris": [
-        "https://pixeldrain.com/l/2xxeBsNt"
-      ],
-      "uploadDate": "2025-07-14T23:49:46.111744-03:00",
-      "fileSize": "83GB"
-    },
-    {
-      "title": "EA SPORTS FC 25",
-      "uris": [
-        "https://pixeldrain.com/l/7Bb3Y8T3"
-      ],
-      "uploadDate": "2025-07-14T23:49:46.111744-03:00",
-      "fileSize": "76GB"
-    },
-    {
-      "title": "EA SPORTS FC 24",
-      "uris": [
-        "https://pixeldrain.com/l/pNFfuvU8"
-      ],
-      "uploadDate": "2025-07-14T23:49:46.111744-03:00",
-      "fileSize": "69GB"
-    },
-    {
-      "title": "Grid Legends",
-      "uris": [
-        "https://pixeldrain.com/l/DmJ9mRev"
-      ],
-      "uploadDate": "2025-07-14T23:49:46.111744-03:00",
-      "fileSize": "35GB"
+      "uris": ["https://pixeldrain.com/l/BYs92eLc"],
+      "uploadDate": "2025-07-15T00:00:00-03:00",
+      "fileSize": "18 GB"
     },
     {
       "title": "Lost in Random",
-      "uris": [
-        "https://pixeldrain.com/l/kDK93QLw"
-      ],
-      "uploadDate": "2025-07-14T23:49:46.111744-03:00",
-      "fileSize": "8GB"
-    },
-    {
-      "title": "Need for Speed Heat",
-      "uris": [
-        "https://pixeldrain.com/l/bkKi9Ko8"
-      ],
-      "uploadDate": "2025-07-14T23:49:46.111744-03:00",
-      "fileSize": "34GB"
-    },
-    {
-      "title": "Need for Speed Hot Pursuit Remastered",
-      "uris": [
-        "https://pixeldrain.com/l/1QvdPyHE"
-      ],
-      "uploadDate": "2025-07-14T23:49:46.111744-03:00",
-      "fileSize": "32GB"
-    },
-    {
-      "title": "Need for Speed Payback",
-      "uris": [
-        "https://pixeldrain.com/l/oiBsqZkR"
-      ],
-      "uploadDate": "2025-07-14T23:49:46.111744-03:00",
-      "fileSize": "20GB"
-    },
-    {
-      "title": "Need for Speed Unbound",
-      "uris": [
-       "https://pixeldrain.com/l/2AW2s12r"
-      ],
-      "uploadDate": "2025-07-14T23:49:46.111744-03:00",
-      "fileSize": "38GB"
-    },
-    {
-      "title": "STAR WARS: Squadrons",
-      "uris": [
-        "https://pixeldrain.com/l/ftw5QSB4"
-      ],
-      "uploadDate": "2025-07-14T23:49:46.111744-03:00",
-      "fileSize": "30GB"
-    },
-    {
-      "title": "PGA TOUR 2K23",
-      "uris": [
-        "https://pixeldrain.com/l/mHMbwLRo"
-      ],
-      "uploadDate": "2025-07-14T23:49:46.111744-03:00",
-      "fileSize": "40GB"
-    },
-    {
-      "title": "Wild Hearts",
-      "uris": [
-        "https://pixeldrain.com/l/yUoumFhP"
-      ],
-      "uploadDate": "2025-07-14T23:49:46.111744-03:00",
-      "fileSize": "56GB"
-    },
-    {
-      "title": "Assassin's Creed Shadows",
-      "uris": [
-        ""
-      ],
-      "uploadDate": "2025-07-14T23:49:46.111744-03:00",
-      "fileSize": "124GB"
-    },
-    {
-      "title": "STAR WARS: Outlaws",
-      "uris": [
-        "https://pixeldrain.com/l/WhCcmpR4"
-      ],
-      "uploadDate": "2025-07-14T23:49:46.111744-03:00",
-      "fileSize": "85GB"
-    },
-     {
-      "title":"Demon Slayer: Kimetsu no Yaiba -The Hinokami Chronicles",
-      "uris": [
-        "https://gofile.io/d/deJc2z"
-      ],
-      "uploadDate": "2025-07-14T23:49:46.111744-03:00",
-      "fileSize": "34GB"
+      "uris": ["https://pixeldrain.com/l/kDK93QLw"],
+      "uploadDate": "2025-07-15T00:00:00-03:00",
+      "fileSize": "8 GB"
     }
   ]
 }
