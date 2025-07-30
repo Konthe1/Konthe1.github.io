@@ -33,7 +33,7 @@
     },
     {
       "title": "F1 25 Iconic Edition",
-      "uris": ["https://gofile.io/d/q8oqAs"],
+      "uris": ["https://gofile.io/d/ozj5YZ"],
       "uploadDate": "2025-07-16T20:00:00.000Z",
       "fileSize": "83 GB"
     },
@@ -495,7 +495,7 @@
     },
     {
       "title": "Total War: Warhammer III",
-      "uris": [" https://gofile.io/d/ANziw8"],
+      "uris": ["https://gofile.io/d/ANziw8"],
       "uploadDate": "2025-07-17T10:00:00.000Z",
       "fileSize": "88.1 GB"
     },
@@ -507,9 +507,33 @@
     },
     {
       "title": "Stranded: Alien Dawn",
-      "uris": [" https://gofile.io/d/VtkATm"],
+      "uris": ["https://gofile.io/d/VtkATm"],
       "uploadDate": "2025-07-17T10:00:00.000Z",
       "fileSize": "11.8 GB"
-    }           
+    },
+    {
+      "title": "Two Point Museum",
+      "uris": ["https://gofile.io/d/N8mMeF"],
+      "uploadDate": "2025-07-17T10:00:00.000Z",
+      "fileSize": "4.22 GB"
+    },
+    {
+      "title": "Jurassic World Evolution 2",
+      "uris": ["https://gofile.io/d/VwPpW0"],
+      "uploadDate": "2025-07-17T10:00:00.000Z",
+      "fileSize": "10.72 GB"
+    },
+    {
+      "title": "Sid Meier's Civilization VII",
+      "uris": ["https://gofile.io/d/fBojbt"],
+      "uploadDate": "2025-07-17T10:00:00.000Z",
+      "fileSize": "20.76 GB"
+    },
+    {
+      "title": "Warhammer 40,000: Chaos Gate - Daemonhunters",
+      "uris": ["https://gofile.io/d/0Vkey7"],
+      "uploadDate": "2025-07-17T10:00:00.000Z",
+      "fileSize": "20.76 GB"
+    }                                                                                 
   ]
 }
